@@ -141,6 +141,7 @@ time.sleep(7)
 back_orders = driver.find_element_by_xpath('//*[@id="app"]/main/section/div[3]/div/div/div/div[2]/div/div/a')
 back_orders.click()
 
+
 #Добавление товара - нажать купить
 #buy_button = driver.find_element_by_xpath('//*[@id="app"]/main/section/section/div/div[2]/div[2]/ul/a[1]/div/div[1]/div/button[1]')
 #time.sleep(2)
